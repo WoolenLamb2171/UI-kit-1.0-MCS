@@ -1,2 +1,2 @@
 # UI-kit-1.0-MCS
-Created with CodeSandbox
+My first project on React. It's just a couple components.
